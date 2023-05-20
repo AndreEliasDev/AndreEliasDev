@@ -4,16 +4,32 @@
   <li>🎓 Studying Computer Science.</li>
   <li>🔥 Junior Back-End Developer.</li>
   <li>📫 You can contact me via email at andre.elias@aluno.ufabc.edu.br</li>
+  </ul>
+  
+  <h2>🛠 &nbsp;Tech Stack</h2>
+
+<h3>Programming Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,&theme=dark)](https://skillicons.dev)
+
+<h3>Framework</h3>
+<p>
   <a href="https://github.com/AndreEliasDev>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </a>
+  <a href="https://github.com/AndreEliasDev">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
 </p>
+
 <h3>Databases</h3>
 <p>
   <a href="https://github.com/AndreEliasDev">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black">
   </a>
 </p>
+                                                                                                      
+                                                                                                      
 <h3>Development Tools</h3>
 <p>
   <a href="https://code.visualstudio.com/">
